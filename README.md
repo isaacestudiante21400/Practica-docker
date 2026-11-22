@@ -10,37 +10,26 @@
 ## Ejercicio 2
 
 ### 2.1 Buscar por terminal la imagen hello-world
-![Ej 2.1](img/ej2-1.png)
+![Ej 2.1](capturasdespliegue/ejercicio2/1.png)
 
-### 2.2 ¿Cuál de todas las imágenes es la oficial?
-![Ej 2.2](img/ej2-2.png)
+### 2.2 Buscar en DockerHub con la casilla "Docker Official Image" y comprobar que coincide
+![Ej 2.1](capturasdespliegue/ejercicio2/2.png)
 
-### 2.3 Buscar en DockerHub con la casilla "Docker Official Image" y comprobar que coincide
-![Ej 2.3](img/ej2-3.png)
+### 2.3 Descargar y ejecutar la imagen elegida
+![Ej 2.1](capturasdespliegue/ejercicio2/3.png)
 
-### 2.4 Descargar y ejecutar la imagen elegida
-![Ej 2.4](img/ej2-4.png)
+### 2.4 Descargar y ejecutar la imagen hello-seattle
+![Ej 2.1](capturasdespliegue/ejercicio2/4.png)
 
-### 2.5 Descargar y ejecutar la imagen hello-seattle
-![Ej 2.5](img/ej2-5.png)
+### 2.5 Intentar borrar la imagen hello-seattle ¿Por qué da error?
+![Ej 2.1](capturasdespliegue/ejercicio2/5.png)
+Da error porque está activa, habría que forzar el borrado
 
-### 2.6 Mostrar las imágenes descargadas
-![Ej 2.6](img/ej2-6.png)
+### 2.6 Listar los contenedores con `ls -a` ¿Para qué sirve la opción -a?
+![Ej 2.1](capturasdespliegue/ejercicio2/6.png)
 
-### 2.7 Intentar borrar la imagen hello-seattle ¿Por qué da error?
-![Ej 2.7](img/ej2-7.png)
-
-### 2.8 Listar los contenedores con `ls` sin parámetros
-![Ej 2.8](img/ej2-8.png)
-
-### 2.9 Listar los contenedores con `ls -a` ¿Para qué sirve la opción -a?
-![Ej 2.9](img/ej2-9.png)
-
-### 2.10 Eliminar el contenedor que usa hello-seattle y la imagen
-![Ej 2.10](img/ej2-10.png)
-
-### 2.11 Listar las imágenes y comprobar que se ha borrado
-![Ej 2.11](img/ej2-11.png)
+### 2.7 Eliminar el contenedor que usa hello-seattle y la imagen
+No tengo la captura pero se elimina mediante "docker container rm -f nombre_contenedor", el -f es la clave
 
 ---
 
