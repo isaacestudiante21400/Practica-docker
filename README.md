@@ -2,14 +2,8 @@
 
 ## Ejercicio 1
 
-### 1.1 Crear una máquina virtual con Alpine llamada "Alpine base"
-![Ej 1.1](img/ej1-1.png)
-
-### 1.2 Instalar Docker en la máquina virtual
-![Ej 1.2](img/ej1-2.png)
-
-### 1.3 Comprobar que todo se ha instalado correctamente
-![Ej 1.3](img/ej1-3.png)
+### 1.1 No uso Alpine pero dejo unas capturas de como he bajado la imagen
+![Ej 2.1](img/capturasdespliegue/ejercicio1/1.png)
 
 ---
 
