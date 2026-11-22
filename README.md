@@ -3,7 +3,7 @@
 ## Ejercicio 1
 
 ### 1.1 No uso Alpine pero dejo unas capturas de como he bajado la imagen
-![Ej 2.1](img/capturasdespliegue/ejercicio1/1.png)
+![Ej 2.1](capturasdespliegue/ejercicio1/1.png)
 
 ---
 
