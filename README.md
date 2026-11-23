@@ -108,31 +108,21 @@ No tengo la captura pero se elimina mediante "docker container rm -f nombre_cont
 ## Ejercicio 7
 
 ### 7.1 Crear el directorio php_data
-
-
 ### 7.2 Crear el archivo index.php con `phpinfo();`
-
-
 ### 7.3 Arrancar el contenedor php_smr (php:8.0-apache) con volumen y puerto 8085
-
+![Ej 2.1](ejercicio7/1.png)
 
 ### 7.4 Acceder desde el navegador a http://ip_maquina_virtual:8085
-
+![Ej 2.1](ejercicio7/2.png)
 
 ### 7.5 Reiniciar la máquina virtual
-
-
 ### 7.6 Comprobar que la URL da error
-
+![Ej 2.1](ejercicio7/3.png)
 
 ### 7.7 Borrar el contenedor
-
-
 ### 7.8 Crear de nuevo el contenedor con reinicio automático (siempre)
-
+![Ej 2.1](ejercicio7/4.png)
 
 ### 7.9 Reiniciar la máquina virtual
-
-
 ### 7.10 Comprobar que la URL ahora sí funciona
-
+![Ej 2.1](ejercicio7/5.png)
